@@ -4,7 +4,7 @@ import codecs
 import os
 
 # Prepare project details.
-VERSION = '1.0.1'
+VERSION = '1.0.2'
 DESCRIPTION = 'Minimalistic Machine Learning Toolset.'
 LONG_DESCRIPTION = ('A package that allows for rapid training and usage of various models. '
                     'One click for training, one click for prediction.'
