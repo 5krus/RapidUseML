@@ -11,8 +11,8 @@ One click for training, one click for prediction.
 Prepare basic necessities for usage.
 
 ```
-import RapidUse                                            # Ensure class is imported.
-ml = RapidUse.ML()                                         # Create instance of class.
+import RapidUseML                                            # Ensure class is imported.
+ml = RapidUseML.ML()                                         # Create instance of class.
 from pandas import read_csv                                # Get pandas to read CSVs.
 ```
 
