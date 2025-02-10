@@ -20,7 +20,7 @@ from pandas import read_csv                                # Get pandas to read 
 ### Prediction:
 
 Predicts target value(s) based on input data provided, with automated model identification.
-Note: ML.prdict(...) checks the folder and all directories within the folder its located in for the relevant model. 
+Note: ML.predict(...) checks the folder and all directories within the folder its located in for the relevant model. 
 
 ```
 input_dataset = read_csv("input_dataset.csv")              # Load dataset for pred.
