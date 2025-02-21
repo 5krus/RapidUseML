@@ -1,1 +1,1 @@
-from RapidUseML import *
+from .RapidUseML import *
